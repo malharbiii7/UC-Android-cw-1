@@ -1,0 +1,16 @@
+/* Online Java Compiler and Editor */
+public class HelloWorld{
+
+     public static void main(String []args){
+        int age = 23;
+            String name ="Malak";
+             System.out.println("Hi, my name is " + name + " and my age is " + age);
+     
+             int height=180;
+             if (  height<=160 && height< 160 ){ 
+          System.out.println(" You can enter the game");
+     } else {
+         System.out.println(" You can't enter the game");
+     }
+     }
+}
